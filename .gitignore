@@ -1,0 +1,31 @@
+# Исключаемые директории
+dataset/
+runs/
+ultralytics/
+venv/
+VisDrone2019-VID-train/
+VisDrone2019-VID-val/
+yolo-/
+
+# Исключаемые файлы
+app.py
+README_SERVER.md
+app_fixed.py
+fix_dataset.py
+rev.py
+test.py
+yolov8n.pt
+
+# Временные файлы
+*.log
+*.pyc
+__pycache__/
+*.mp4
+*.jpg
+*.png
+
+# JetBrains IDE
+.idea/
+*.iml
+*.ipr
+*.iws
